@@ -2,11 +2,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc1djExdWsxanFsdTVpM3R6OWdiMDg3Yzdna29ldjhnNjg3NXF3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CTX0ivSQbI78A/giphy.gif" width="200"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="www.linkedin.com/in/kimberly-cruz-349937201">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/-kimberlycruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kimberly-cruz-349937201" alt="Linkedin: kimberly-cruz"/>
+</p>
 
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=KimbCruz&style=flat-square&color=blue" alt=""/>
