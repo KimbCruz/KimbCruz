@@ -3,9 +3,12 @@
 </div>
 
 
- <p align="center">
-  <img src="https://img.shields.io/badge/-kimberlycruz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/kimberly-cruz-349937201" alt="Linkedin: kimberly-cruz"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kimberly-cruz-349937201">
+    <img src="https://img.shields.io/badge/-kimberlycruz-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin: kimberly-cruz"/>
+  </a>
 </p>
+
 
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=KimbCruz&style=flat-square&color=blue" alt=""/>
