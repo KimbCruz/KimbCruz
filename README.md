@@ -41,7 +41,7 @@ Hello I am a Computer Science Major.
 </div>
 
 ## Contact 📩
-I'd love to hear your thoughts! Contact me at [kcruz92@toromail.csudh.edu].
+I'd love to hear your thoughts! Contact me at [kimberlycruz7000@gmail.com].
 
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimbCruz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
