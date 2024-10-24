@@ -23,6 +23,7 @@
 
 # About ME 🌟🌙
 Hello I am a Computer Science Major.
+- I am pursing projects and research in Data analytics.
 - I'm currently working on a new project exploring web application.
 - My passion is to explore new fields within my major and right now I am enjoying game development.
 - I am studying to taking the CompTia Security+ 
